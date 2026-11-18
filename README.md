@@ -18,6 +18,9 @@ Designed and implemented a multi-layer campus network using Cisco Packet Tracer.
 - Distribution Layer
 - Access Layer
 - Routers and Simulated ISP
+- ## Network Topology
+
+![Campus Network Topology](Campus-Network-Topology.png)
 
 ## VLAN Configuration
 
