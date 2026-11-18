@@ -18,7 +18,7 @@ Designed and implemented a multi-layer campus network using Cisco Packet Tracer.
 - Distribution Layer
 - Access Layer
 - Routers and Simulated ISP
-- ## Network Topology
+ ## Network Topology
 
 ![Campus Network Topology](Campus-Network-Topology.png)
 
@@ -53,7 +53,7 @@ Designed and implemented a multi-layer campus network using Cisco Packet Tracer.
 - Port Security violation testing
 
 ## Project File
-Cisco Packet Tracer project file: `.pkt`
+[Download Packet Tracer Project](CCNA-Campus-Network-Design.pkt)
 
 ## Learning Outcomes
 Practical experience in network design, routing, switching, troubleshooting and network security.
